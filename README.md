@@ -1,5 +1,5 @@
 # devmeetup-app
-
+A meeting app using Vue, Vuetify and Firebase.
 ## Project setup
 ```
 npm install
